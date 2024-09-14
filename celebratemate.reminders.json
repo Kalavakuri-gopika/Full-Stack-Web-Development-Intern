@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66a7b6900c1c28a6f5d695f6"
+  },
+  "name": "John Doe",
+  "date": "2024-08-15",
+  "type": "birthday",
+  "contact": "email"
+}]
+{
+  "_id": {
+    "$oid": "66a7bcef17065f604066a3c8"
+  },
+  "name": "kalavakuri Gopika",
+  "date": "2024-07-29",
+  "type": "birthday",
+  "contact": "sms"
+}
+{
+  "_id": {
+    "$oid": "66a7c81a0c1c28a6f5d69609"
+  },
+  "name": "Smith",
+  "date": "2024-06-16",
+  "type": "Anniversary",
+  "contact": "SMS"
+}
